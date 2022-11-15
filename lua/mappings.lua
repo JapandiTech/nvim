@@ -12,3 +12,4 @@ map('n', '<C-o>', '<cmd>NvimTreeFocus<CR>')
 
 -- Toggleterm
 map('n', '<C-t>', '<cmd>ToggleTerm<CR>')
+map('t', '<C-t>', '<cmd>ToggleTerm<CR>')
